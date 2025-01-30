@@ -340,6 +340,15 @@ html {
         -webkit-animation-delay: 2s;
         -webkit-transition:all 1s;
     }
+    #I7 {
+        filter:blur(20px);
+    }
+    #I8 {
+        filter:blur(20px);
+    }
+    #I9 {
+        filter:blur(20px);
+    }
     .right {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr;
@@ -427,6 +436,15 @@ html {
                 -webkit-transition: opacity 2s ease-in-out;
                 -webkit-animation-delay: 2s;
                 -webkit-transition:all 1s;
+            }
+            #I7 {
+                filter:blur(15px);
+            }
+            #I8 {
+                filter:blur(15px);
+            }
+            #I9 {
+                filter:blur(15px);
             }
             .right {
                 grid-template-columns: 1fr;
